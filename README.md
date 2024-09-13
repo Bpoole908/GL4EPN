@@ -1,4 +1,7 @@
 # Graph Construction for Electrical Power Transmissions Networks (GC4EPTN)
+Source repo for *Data-Driven Graph Construction of Power Flow Graphs for Electric Power Transmission Networks*. 
+
+For the [online appendix](https://github.com/RL-BCI-Lab/gc4eptn/blob/master/online-appendix.pdf) containing additional results, see the `online-appendix.pdf` file.
 
 <!-- ```
 @inproceedings{gc4eptn,

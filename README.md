@@ -44,8 +44,8 @@ Below will be a brief description of how this repository is structured.
 - `gc4epttn.`: This contains all general code for the GGM algorithms, running experiments, plotting,
 metrics, utilities, etc.
     - `gc4eptn.dataloaders`: Contains classes for loading the real-time data simulation (RTDS) and MATPOWER data. 
-    - `gc4eptn.ggm`" Contains code for running GGM algorithms and their experiments.
-    - `gc4eptn.pngs`" Contains code for running the power network graph score (PNGS) algorithm and experiments for running it with GGMs.
+    - `gc4eptn.ggm`: Contains code for running GGM algorithms and their experiments.
+    - `gc4eptn.pngs`: Contains code for running the power network graph score (PNGS) algorithm and experiments for running it with GGMs.
     - `gc4eptn.gsp`: Contains code for running a basic GPS for graph construction algorithm.
     - `gc4eptn.utils`: Contains utility code from plotting, to metrics, to normalization, and more.
 - `datasets`: Contains all the datasets that can be loaded using gc4eptn. Currently only supports the RTDS Kundur’s two-area, four-machine system (as in paper) and two MATPOWER systems with no current data (case9 and case14).
